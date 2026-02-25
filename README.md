@@ -209,3 +209,7 @@ Communicate insights clearly
 Work within real-world data limitations
 
 Deliver analytics that drive decisions# Dispute-Resolution-Performance-and-Risks-Insights
+
+
+Dashboard!A1
+<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/21b214de-43fd-4647-ab5f-c45552165388" />
